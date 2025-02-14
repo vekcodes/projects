@@ -2,6 +2,12 @@
     font-family: "stem";
     color: #1f373d;
 }
+.footer-wrapper{
+    background-color: #1f373d;
+}
+.appartment-cards-wrap{
+    background-color:#f6f5f4;
+}
 .nav-cta ul button{
    background-color: #ffcc01;
    border-radius: 6px;
@@ -179,10 +185,12 @@
     background-color: #f6f5f4;
 }
 .agent-heading h1{
-    margin-top: 64px;
     color: #1f373d;
     font-size: 28px;
     font-family: 'stem';
+}
+.agent-wrap{
+ background-color: #f6f5f4;
 }
 .agent-heading p{
     color: #1f373d;
@@ -239,4 +247,31 @@ font-family: 'stem';
 }
 footer{
     background-color: #1f373d;
+
+}
+
+.upper-footer h1{
+font-family: 'stem';
+color: white;
+font-size: 30px;
+}
+.email-newsletter::after{
+    border: none;
+}
+.email-newsletter::placeholder{
+    font-size: 20px;
+    padding-left: 10px;
+    font-family: sans-serif;
+}
+.email{
+    background-color: white ;
+}
+.line{
+    background-color: #f6f5f4;
+}
+.ft-left{
+    color: white;
+}
+.ft-right{
+    color: white;
 }
